@@ -25,7 +25,7 @@ Ensure you have the following tools installed to explore the dashboard:
    ```bash
    git clone https://github.com/jessicalorentino/-Criando-um-Dashboard-de-Vendas-do-Xbox-com-Excel/
    ```
-2. Open the `` file in Excel.
+2. Open the `projectdio.xlsx` file in Excel.
 3. Use the dynamic filters to explore sales and revenue data.
 
 ## 📈 Insights Examples
