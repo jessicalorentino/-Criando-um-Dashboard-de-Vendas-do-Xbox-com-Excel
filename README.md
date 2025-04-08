@@ -1,50 +1,36 @@
-# 📊 Dashboard de Vendas do Xbox Game Pass
+# 📊 Xbox Game Pass Sales Dashboard
 
-Bem-vindo ao repositório do **Dashboard de Vendas do Xbox Game Pass**! Este projeto foi desenvolvido para analisar e apresentar insights detalhados sobre as assinaturas do Xbox Game Pass, utilizando o Excel como ferramenta principal.
+Welcome to the **Xbox Game Pass Sales Dashboard** repository! This project was created to analyze and provide detailed insights into Xbox Game Pass subscriptions, utilizing Excel as the main tool.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- **Filtros Dinâmicos**:
-  - Análises mensais, trimestrais e anuais das vendas.
-- **Visualizações de Dados**:
-  - Faturamento anual detalhado.
-  - Períodos preferidos de assinatura.
-  - Mês com maior volume de vendas de assinaturas.
-  - Mês com maior faturamento de vendas.
-- **Design Intuitivo**:
-  - Layout amigável para navegação e interpretação de dados.
+- **Dynamic Filters**:
+  - Monthly, quarterly, and annual sales analysis.
+- **Data Visualizations**:
+  - Detailed annual revenue.
+  - Most preferred subscription periods.
+  - Month with the highest number of Game Pass sales.
+  - Month with the highest sales revenue.
+- **Intuitive Design**:
+  - User-friendly layout for easy navigation and data interpretation.
 
-## 🖥 Pré-requisitos
+## 🖥 Requirements
 
-Certifique-se de ter as seguintes ferramentas instaladas para explorar o dashboard:
-- Microsoft Excel (versão 2016 ou superior recomendada).
+Ensure you have the following tools installed to explore the dashboard:
+- Microsoft Excel (version 2016 or later recommended).
 
-## 🔍 Como Usar
+## 🔍 How to Use
 
-1. Clone este repositório:
+1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/jessicalorentino/-Criando-um-Dashboard-de-Vendas-do-Xbox-com-Excel/
    ```
-2. Abra o arquivo `` no Excel.
-3. Use os filtros dinâmicos para explorar as vendas e o faturamento.
+2. Open the `` file in Excel.
+3. Use the dynamic filters to explore sales and revenue data.
 
-## 📈 Exemplos de Insights
+## 📈 Insights Examples
 
-- Descubra os meses de maior e menor venda.
-- Identifique os períodos de assinatura mais populares.
-- Analise os padrões de crescimento ao longo do ano.
-
-## 🛠 Melhorias Futuras
-
-- Adicionar gráficos mais avançados.
-- Implementar suporte para outros idiomas.
-- Conectar o dashboard a uma base de dados em tempo real.
-
-## 💬 Feedback
-
-Se você tiver sugestões ou encontrar problemas, fique à vontade para abrir uma issue ou entrar em contato comigo.
-
----
-
-Espero que isso atenda às suas expectativas! Se precisar de mais ajustes, é só dizer. 😊
+- Discover the months with the highest and lowest sales.
+- Identify the most popular subscription periods.
+- Analyze growth trends over the year.
 
